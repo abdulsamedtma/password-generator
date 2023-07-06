@@ -21,14 +21,13 @@ Ultimately, the goal of this project is to empower individuals with a tool that 
 
  Congratulations! You have successfully launched the Random Password Generator.
 
+stage6.png
 Stage1.png
 Stage2.png
 Stage3.png
 Stage4.png
 Stage5.png
-stage6.png
 generated password displayed.png
-
 ## Usage
 Generating a Password
 To generate a random password using the default criteria, follow these steps:
