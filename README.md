@@ -80,6 +80,5 @@ Contributions are always welcome! But please read the contribution guidelines fi
 ## Test
 Page URL http://127.0.0.1:5501/index.html Page deployed application URL coming soon!
 
-## Acknowledgments
-Thanks to the JavaScript community for providing useful libraries and resources.
+
 
