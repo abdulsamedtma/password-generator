@@ -21,19 +21,16 @@ Ultimately, the goal of this project is to empower individuals with a tool that 
 
  Congratulations! You have successfully launched the Random Password Generator.
 
-![User enter desired password length](assets/images/Stage1.png)
 
-![User entered desired password length of 10](assets/images/Stage2.png)
+![Alt text](assets/images/Stage1.png)
+ ![Alt text](assets/images/Stage2.png)
+![Alt text](assets/images/Stage3.png)
+![Alt text](assets/images/Stage4.png)
+![Alt text](assets/images/Stage5.png)
+ ![Alt text](assets/images/stage6.png)
+ ![Alt text](assets/images/generated%20password%20displayed.png)
+ 
 
-![User include uppercase](assets/images/Stage3.png)
-
-![User incluse lowercase](assets/images/Stage4.png)
-
-![User include numberic characters](assets/images/Stage5.png)
-
-![User includes special charaters](assets/images/stage6.png)
-
-![User password is generated and displayed](assets/images/generated%20password%20displayed.png)
 
 ## Usage
 Generating a Password
