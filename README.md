@@ -7,7 +7,7 @@ Key features of this project include:
 . Flexible password criteria, allowing you to specify the inclusion of uppercase letters, lowercase letters, numbers, and special characters.
 
 **Motivation** 
-The motivation behind creating the Random Password Generator project is to address the increasing need for strong and secure passwords in today's digital age. With the proliferation of online accounts and the ever-present threat of cyber attacks, having a strong password is essential to protect personal and sensitive information.
+The motivation behind creating the Random Password Generator project is to address the increasing need for strong and secure passwords in today's digital age. With the proliferation of online accounts and the ever-present threat of cyber-deattacks, having a strong password is essential to protect personal and sensitive information.
 
 Many people struggle to create passwords that are both secure and memorable. Often, individuals resort to using weak passwords or reusing the same password across multiple accounts, which can lead to significant security vulnerabilities. By providing a simple and reliable tool to generate strong passwords, this project aims to encourage better password practices and enhance overall security.
 
@@ -21,13 +21,20 @@ Ultimately, the goal of this project is to empower individuals with a tool that 
 
  Congratulations! You have successfully launched the Random Password Generator.
 
-stage6.png
-Stage1.png
-Stage2.png
-Stage3.png
-Stage4.png
-Stage5.png
-generated password displayed.png
+![User enter desired password length](assets/images/Stage1.png)
+
+![User entered desired password length of 10](assets/images/Stage2.png)
+
+![User include uppercase](assets/images/Stage3.png)
+
+![User incluse lowercase](assets/images/Stage4.png)
+
+![User include numberic characters](assets/images/Stage5.png)
+
+![User includes special charaters](assets/images/stage6.png)
+
+![User password is generated and displayed](assets/images/generated%20password%20displayed.png)
+
 ## Usage
 Generating a Password
 To generate a random password using the default criteria, follow these steps:
